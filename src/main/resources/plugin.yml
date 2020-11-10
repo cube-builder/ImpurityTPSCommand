@@ -1,0 +1,8 @@
+name: Tpscommand
+version: ${project.version}
+main: me.impurity.tpscommand.Tpscommand
+api-version: 1.12.2
+description: tps command for impurity
+commands:
+  lag:
+    aliases: [tps]
